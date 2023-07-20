@@ -1,8 +1,6 @@
-# Métodos de criptografia de chave pública
-- Código Fonte do Projeto de Pesquisa 
+# Matrizes pseudo aleatórias + RSA
+- Código Fonte de Programa do Projeto de Pesquisa Métodos de criptografia de chave pública
 - Aprovado no edital: EDITAL 17/2022 – PROPPI
-
-**Matrizes pseudo aleatórias + RSA**
 
 ## Autores:
 - Carlos Alberto Salazar Mercado
