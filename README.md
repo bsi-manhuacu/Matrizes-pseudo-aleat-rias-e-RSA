@@ -1,4 +1,4 @@
-# Matrizes pseudo aleatórias + RSA 
+# Métodos de criptografia de chave pública
 - Código Fonte do Projeto de Pesquisa 
 - Aprovado no edital: EDITAL 17/2022 – PROPPI
 
